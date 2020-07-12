@@ -25,7 +25,8 @@ class MainActivity : AppCompatActivity() {
 //        contect란 한 액티미티의 모든 정보를 담고 있다.
 //        listView.adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, item)
 
-// 하하핳하..ㅗㅗㅗ
+// 하하핳하..ㅗㅗㅗ  다시한번..
+        //  아앙
 
     }
 }
